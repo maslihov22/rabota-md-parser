@@ -1,0 +1,18 @@
+# Данные (результаты парсинга)
+*.json
+*.xlsx
+*.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.iml
